@@ -1,0 +1,33 @@
+﻿<Window x:Class="LoginWPF.View.LoginWindow"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Login" Height="350.806" Width="786.194" x:Name="LogWin">
+    <Grid>
+        <StackPanel>
+
+            <StackPanel Margin="8" Orientation="Horizontal">
+                <TextBlock Margin="10" FontSize="20" Width="153" >Server:</TextBlock>
+
+                <ComboBox x:Name="CbBox" FontSize="20" Width="61" Height="30" SelectedValue="{Binding Path=User.Server}">
+                   
+                </ComboBox>
+
+
+            </StackPanel>
+            <StackPanel Margin="8" Orientation="Horizontal">
+                <TextBlock Margin="10" FontSize="20" Width="153" >Benutzername:</TextBlock>
+                <TextBox Width="203" FontSize="20" Height="30" Text="{Binding Path=User.Username}"></TextBox>
+            </StackPanel>
+            <StackPanel Margin="8" Orientation="Horizontal">
+                <TextBlock Margin="10" FontSize="20" Width="153" >Passwort:</TextBlock>
+                <TextBox Width="203" FontSize="20" Height="30" Text="{Binding Path=User.Password}" ></TextBox>
+            </StackPanel>
+
+            <Button MinWidth="93" FontSize="20" Width="153" Content="Senden" Command="{Binding LoginCommand}"/>
+            <TextBlock Text="{Binding Path=User.Answer}" Margin="182,10,0,10" FontSize="20" Height="59" HorizontalAlignment="Left" Width="495" />
+
+        </StackPanel>
+
+    </Grid>
+</Window>

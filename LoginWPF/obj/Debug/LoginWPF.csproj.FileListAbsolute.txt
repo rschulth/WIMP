@@ -1,0 +1,16 @@
+c:\users\rschulth\documents\visual studio 2013\Projects\LoginWPF\LoginWPF\bin\Debug\LoginWPF.exe.config
+c:\users\rschulth\documents\visual studio 2013\Projects\LoginWPF\LoginWPF\bin\Debug\LoginWPF.exe
+c:\users\rschulth\documents\visual studio 2013\Projects\LoginWPF\LoginWPF\bin\Debug\LoginWPF.pdb
+c:\users\rschulth\documents\visual studio 2013\Projects\LoginWPF\LoginWPF\obj\Debug\LoginWPF.csprojResolveAssemblyReference.cache
+c:\users\rschulth\documents\visual studio 2013\Projects\LoginWPF\LoginWPF\obj\Debug\App.g.cs
+c:\users\rschulth\documents\visual studio 2013\Projects\LoginWPF\LoginWPF\obj\Debug\LoginWPF_MarkupCompile.cache
+c:\users\rschulth\documents\visual studio 2013\Projects\LoginWPF\LoginWPF\obj\Debug\LoginWPF.g.resources
+c:\users\rschulth\documents\visual studio 2013\Projects\LoginWPF\LoginWPF\obj\Debug\LoginWPF.Properties.Resources.resources
+c:\users\rschulth\documents\visual studio 2013\Projects\LoginWPF\LoginWPF\obj\Debug\LoginWPF.csproj.GenerateResource.Cache
+c:\users\rschulth\documents\visual studio 2013\Projects\LoginWPF\LoginWPF\obj\Debug\LoginWPF.exe
+c:\users\rschulth\documents\visual studio 2013\Projects\LoginWPF\LoginWPF\obj\Debug\LoginWPF.pdb
+C:\Users\rschulth\documents\visual studio 2013\Projects\LoginWPF\LoginWPF\obj\Debug\View\ControlWindow.baml
+C:\Users\rschulth\documents\visual studio 2013\Projects\LoginWPF\LoginWPF\obj\Debug\View\ControlWindow.g.cs
+C:\Users\rschulth\documents\visual studio 2013\Projects\LoginWPF\LoginWPF\obj\Debug\View\LoginWindow.baml
+C:\Users\rschulth\documents\visual studio 2013\Projects\LoginWPF\LoginWPF\obj\Debug\View\LoginWindow.g.cs
+C:\Users\rschulth\documents\visual studio 2013\Projects\LoginWPF\LoginWPF\bin\Debug\json\Item.json
